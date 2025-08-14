@@ -39,7 +39,7 @@ Included in `/screenshots/`:
 
 ## Research Paper
 
-The full paper: [`Research Paper.pdf`](./Research Paper.pdf)
+The full paper: [Research Paper](./Research_Paper.pdf)
 
 ## Author
 
